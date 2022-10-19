@@ -33,7 +33,7 @@ If so, let's get started.
 2. Open a Heroku account through the following link - https://signup.heroku.com/
 
 
-## Third step - Opening accounts
+## Third step - Get your keys
 Take the required keys from mailchimp.
 If you open the app.js file you will see that there are places where you will need to complete 2 things:
 1. API key
@@ -48,6 +48,19 @@ One last thing that is very important to pay attention to, notice that at the en
 ## Fourth step - Edit the HTML files
 So the newsletter I made is for a group of German shepherd dogs that I have that I keep my friends/clients up to date with. What content would you like to present to the client?
 This is where the basic knowledge of HTML comes in, you are welcome to edit the files as you wish and continue with me to the stage of uploading our newsletter to the World Wide Web.
+
+## Last step - Deploying your server with Heroku
+After clicking on the following link - https://devcenter.heroku.com/start a detailed guide will open for you on how to upload your server, choose the "Node.js" guide and do step by step what is required of you in the guide.
+Please note that the guide instructs you how to upload an example application that Heroku provides, you do not need it - skip it and perform the actions for the application you made following the guide here.
+In addition, in the last step of the Heroku guide, it will be written to enter the following command in the command line: "git push heroku main", if this command does not work for you, try "git push heroku master" instead, and it will work.
+
+
+
+## Summary
+If you did all the steps correctly, you should now have a newsletter that you can use in many different ways and enjoy it.
+If you encountered any problem in the process, you are welcome to send me an email to the following address: afikperetz5235@gmail.com.
+Anyway, enjoy your new newsletter web app!
+
 
 
 
